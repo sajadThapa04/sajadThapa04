@@ -1,99 +1,124 @@
 <h1 align="center">Hi 👋, I'm Sajad</h1>
-<h3 align="center">🚀 Full Stack Developer • Backend Focused • Building Real Products</h3>
+<h3 align="center">Full Stack Developer • Backend Focused • iOS Builder • Building Real Products</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-blue" />
-  <img src="https://img.shields.io/badge/Startup-Building%20Nasta-orange" />
-  <img src="https://img.shields.io/badge/Learning-AI%20%2F%20ML-green" />
+  <a href="https://github.com/sajadThapa04">
+    <img src="https://komarev.com/ghpvc/?username=sajadThapa04&label=Profile%20views&color=0e75b6&style=flat" alt="sajadThapa04" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/iOS-SwiftUI-F05138?logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cache-Redis-DC382D?logo=redis&logoColor=white" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-<p>
-💻 Passionate about building real-world scalable systems <br>
-🚀 Currently building <b>Nasta</b> — a food & dining platform <br>
-⚙️ Focused on backend architecture, APIs, and performance <br>
-🌱 Learning AI/ML and system design <br>
-🎯 Goal: Build products used by millions
-</p>
+- 💻 I build real-world, scalable applications across **backend, web, and mobile**
+- 🍽️ Currently building **Nasta**, a food & dining platform  
+- 📱 Experience working with **iOS apps using SwiftUI**
+- ⚙️ Focused on **backend systems, APIs, and performance**
+- 🌱 Learning **AI/ML, system design, and advanced architecture**
+- 🎯 Goal: Build products used by millions
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🚀 Backend
-
 <p>
-  <img src="https://img.shields.io/badge/Node.js-API%20Development-green" />
-  <img src="https://img.shields.io/badge/MongoDB-Database-darkgreen" />
-  <img src="https://img.shields.io/badge/Redis-Caching-red" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js" />
 </p>
 
 ### 🌐 Frontend
-
 <p>
-  <img src="https://img.shields.io/badge/React-UI-blue" />
-  <img src="https://img.shields.io/badge/TypeScript-JS%20Superset-blue" />
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
-### ⚙️ Tools & DevOps
-
+### 📱 Mobile (iOS)
 <p>
-  <img src="https://img.shields.io/badge/Git-Version%20Control-black" />
-  <img src="https://img.shields.io/badge/GitHub-Actions-purple" />
-  <img src="https://img.shields.io/badge/REST-APIs-lightgrey" />
+  <img src="https://skillicons.dev/icons?i=swift" />
+</p>
+
+### 🗄️ Database / Infra
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,redis" />
+</p>
+
+### ⚙️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 📦 Project
+## 📦 Featured Project
 
 ### 🍽️ Nasta — Food & Dining Platform
+A platform connecting users with food venues, designed for scalability and real-world usage.
 
-<p>
-A platform connecting users with food venues, focused on real-world usability and scalability.
-</p>
+**Focus areas:**
+- Venue discovery  
+- Ordering system  
+- Backend architecture  
+- Product scalability  
 
-<ul>
-  <li>📍 Venue listings & discovery</li>
-  <li>🛒 Ordering system</li>
-  <li>⚡ Scalable backend architecture</li>
-</ul>
+---
+
+## 📱 iOS Work
+
+- Built applications using **SwiftUI**
+- Understanding of Apple ecosystem and UI/UX patterns
+- Experience integrating frontend with backend APIs
 
 ---
 
 ## 📚 Currently Learning
 
-<ul>
-  <li>Machine Learning (TensorFlow, PyTorch, Scikit-learn)</li>
-  <li>Advanced Backend Systems</li>
-  <li>Distributed Systems & Scaling</li>
-  <li>Startup & Product Strategy</li>
-</ul>
+- Machine Learning (TensorFlow, PyTorch, Scikit-learn)  
+- Advanced Backend Systems  
+- Distributed Systems  
+- Startup & Product Strategy  
 
 ---
 
-## 🎯 Future Goals
+## 🎯 Goals
 
-<ul>
-  <li>🌍 Build globally scalable products</li>
-  <li>🚀 Launch a successful startup</li>
-  <li>🧠 Master backend engineering & AI</li>
-</ul>
+- Become strong in **backend + system design**
+- Build and scale real startups  
+- Combine **mobile + backend + AI** into products  
 
 ---
 
-## 🤝 Connect
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sajadThapa04&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajadThapa04&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sajadThapa04&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
 
 <p>
-📫 Add your email / LinkedIn here
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/sajad-thapa-1642b8351/">sajad-thapa</a><br>
+  📧 Email: <a href="mailto:sajadthapa04@gmail.com">sajadthapa04@gmail.com</a>
 </p>
 
 ---
 
 <details>
-  <summary>⚡ Fun Fact</summary>
-  <p>I focus more on building real products than just learning theory.</p>
+  <summary><b>More About Me</b></summary>
+  <br />
+  I focus on building practical products rather than just theory. I enjoy working across backend systems, mobile apps, and product thinking to create real impact.
 </details>
